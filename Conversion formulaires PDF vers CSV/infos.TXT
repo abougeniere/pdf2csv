@@ -1,0 +1,18 @@
+Pdf2Csv – conversion de fichiers PDF (Acrobat)  en fichier CSV / alain.bougeniere@univ-evry.fr
+
+Cette application transforme le contenu des formulaires de fichiers PDF en un fichier CSV.
+Plateforme Java 1.6 minimum.
+
+Pour fonctionner :
+-	Tous les fichiers PDF doivent avoir la même structure de formulaire,
+-	Tous les fichiers PDF doivent être placés dans le même répertoire,
+
+Mode d’emploi :
+
+1-	Choisir le répertoire contenant les fichiers PDF,La liste des fichiers qui vont être convertis apparait.
+
+2-	Choisir un nom et un emplacement pour le fichier CSV qui va contenir les données des formulaires.
+
+3-	Lancer la conversion avec le bouton « Exécuter »
+
+
